@@ -2,21 +2,15 @@
 	box-sizing: border-box; 
 	margin: 0;
 	padding: 0;
-	font-family: Brush Script MT, Lucida Handwriting, cursive ;
+	font-family: Brush Script MT,  cursive ;
   }
 
-body{
 
-  background: rgb(0,0,0);
-  background: linear-gradient(180deg, rgba(0,0,0,0.5081206496519721) 28%, rgba(49,55,96,0.5730858468677494) 68%, rgba(149,149,152,1) 95%);
-  background: no-repeat;
-}
 
 h1{
 	color: blue;
 	margin: 10px;
 	text-align: center;
-
 
 }
 
