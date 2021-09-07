@@ -5,14 +5,15 @@
 
   }
 
-.container h1 {
-	text-align:left ;
-}
-
 .nav-link{
 	color:black ;
 	background-color: #B3B3B3 ;
 	
+}
+
+.navbar-brand{
+	font-size: 2.5em;
+	font-weight: bolder;
 }
 
 button{
